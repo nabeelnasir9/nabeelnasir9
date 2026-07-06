@@ -61,15 +61,24 @@ I'm a full-stack developer and technical co-founder who enjoys taking products f
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nabeelnasir9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Nabeel's GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelnasir9&theme=tokyonight&hide_border=true" alt="Nabeel's GitHub streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=nabeelnasir9&theme=tokyonight&hide_border=true" alt="Nabeel's GitHub streak" />
 </p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelnasir9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Nabeel's top languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=nabeelnasir9&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Nabeel's top contributed repos" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nabeelnasir9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Nabeel's GitHub trophies" />
+</p>
+
+---
+
+### 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
 </p>
 
 ---
