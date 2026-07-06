@@ -24,7 +24,7 @@ I'm a full-stack developer and technical co-founder who enjoys taking products f
 - **Currently building** — SaaS products with **Next.js, React Native, FastAPI & MongoDB**
 - **Next chapter** — Joining **Dr. Nadimi's lab at the University of Manitoba** to research **NIR spectroscopy, hyperspectral imaging, and ML/DL**
 - **Leveling up in** — Deep learning, applied ML, and scalable system design
-- **Ask me about** — MERN, Next.js, React Native, FastAPI, or turning an idea into a shipped product
+- **Ask me about** — WebApp Development, Mobile App Development, LLM, AI SaaS, Product Architecture, or turning an idea into a shipped product
 - **Fun fact** — I build developer tools for fun: contribution-graph painters, README decorators, and web scanners
 
 ---
