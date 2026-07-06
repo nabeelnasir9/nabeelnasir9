@@ -17,19 +17,19 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a full-stack developer and technical co-founder who enjoys taking products from a blank repo to something people actually use. Over the past few years I've shipped SaaS platforms across the Pakistani, German, and Australian markets — POS systems, a no-code website builder, and a stack of developer tools along the way.
 
-- 🏗️ **Currently building** — SaaS products with **Next.js, React Native, FastAPI & MongoDB**
-- 🔬 **Next chapter** — Joining **Dr. Nadimi's lab at the University of Manitoba** to research **NIR spectroscopy, hyperspectral imaging, and ML/DL**
-- 🌱 **Leveling up in** — Deep learning, applied ML, and scalable system design
-- 💬 **Ask me about** — MERN, Next.js, React Native, FastAPI, or turning an idea into a shipped product
-- ⚡ **Fun fact** — I build developer tools for fun: contribution-graph painters, README decorators, and web scanners
+- **Currently building** — SaaS products with **Next.js, React Native, FastAPI & MongoDB**
+- **Next chapter** — Joining **Dr. Nadimi's lab at the University of Manitoba** to research **NIR spectroscopy, hyperspectral imaging, and ML/DL**
+- **Leveling up in** — Deep learning, applied ML, and scalable system design
+- **Ask me about** — MERN, Next.js, React Native, FastAPI, or turning an idea into a shipped product
+- **Fun fact** — I build developer tools for fun: contribution-graph painters, README decorators, and web scanners
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -57,7 +57,7 @@ I'm a full-stack developer and technical co-founder who enjoys taking products f
 
 ---
 
-### 💭 Random Dev Quote
+### Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
@@ -65,4 +65,4 @@ I'm a full-stack developer and technical co-founder who enjoys taking products f
 
 ---
 
-<p align="center"><i>Full-stack engineering · SaaS product building · applied machine learning — always shipping. Let's connect!</i></p>
+<h2 align="center"><i>Full-stack engineering · SaaS product building · applied machine learning — always shipping. Let's connect!</i></h2>
